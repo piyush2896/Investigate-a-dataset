@@ -8,3 +8,6 @@ for [Machine Learning Foundation Nanodegree](https://in.udacity.com/course/machi
 3. Numpy
 4. Scikit-Learn
 5. Jupyter
+
+## Usage
+Run Analysis+of+titanic+Dataset.html in chrome of firefox to see the ipynb notebook if you do not have jupyter installed.
